@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **mern development**
 
-- 👯 I’m doing Challenge of **180 Hard Dsa **
+- 👯  **Cybersecurity** and **AR/VR** enthuciast
 
 - 📫 How to reach me **abhipal2330@gmail.com**
 
