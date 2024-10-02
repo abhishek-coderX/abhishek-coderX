@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **mern development** and  **DSA**
  
-- 🌱 Aspiring Blockchain developer
+- 🌱 Aspiring Blockchain & Ml developer
 
 - 👯  **Cybersecurity** and **AR/VR** enthuciast
 
