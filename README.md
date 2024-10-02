@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **mern development**
+- 🌱 I’m currently learning **mern development** and  **DSA**
  
-- 🌱 I’m currently learning **DSA**
+- 🌱 Aspiring Blockchain developer
 
 - 👯  **Cybersecurity** and **AR/VR** enthuciast
 
